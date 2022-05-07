@@ -1,0 +1,100 @@
+Date:    28-06-2021
+Version: 2.2.8
+===================
+1. Updated to latest Bootstrap v5.0.2
+2. Fixed: Minor CSS Issue
+
+Date:    23-02-2021
+Version: 2.2.7
+===================
+1. Updated: Bootstrap Latest Version(5.0.0-beta1)
+2. Fixed: Checkout Page Issue
+
+Date:    03-10-2020
+Version: 2.2.6
+===================
+1. Updated: Bootstrap Latest Version(5.0.0)
+2. Fixed: Minor CSS Issue
+3. Improved: Responsive
+
+Date:    11-05-2020
+Version: 2.2.5
+===================
+1. Updated: Mini Cart (Off-Canvas Mini Cart Added)
+2. Fixed: Categories Menu
+3. Fixed: CSS Issue with responsive Device
+
+Date:    19-02-2020
+Version: 2.2.4
+===================
+1. Added: New Home Version
+2. Added: Instagram Newsfeed
+
+Date:    03-02-2020
+Version: 2.2.3
+===================
+1. Added: Instagram Newsfeed
+2. Fixed: Minor CSS Issue
+3. Improved: Responsive
+
+Date:    12-12-2019
+Version: 2.2.2
+===================
+1. Beautified: CSS & JS file
+  - Developer Friendly
+2. Fixed: Minor CSS Issue
+3. Improved: Responsive
+
+Date:    30-10-2019
+Version: 2.2.1
+===================
+1. Added: New Home Version
+  - New Color Scheme 
+  - New Video Section 
+2. Updated: Style CSS
+3. Fixed: Minor Responsive Issue
+
+Date:    07-10-2019
+Version: 2.2.0
+===================
+1. Added: 1 Home Page
+
+Date:    19-09-2019
+Version: 2.1.1
+===================
+1. Fixed: Some error in main.js (duplicate selector & missing semicolons)
+
+Date:    12-09-2019
+Version: 2.1.0
+===================
+1. Added: 1 Home Page
+2. Updated: Bootstrap 4 to latest version
+3. Fixed: In main.js owlCarousel activation with multiple autoplay property (IE11)
+
+Date:    20-08-2019
+Version: 2.0.2
+===================
+1. Fixed: Mobile Menu
+2. Fixed: Coming Soon CSS Issue
+
+Date:    20-08-2019
+Version: 2.0.1
+===================
+1. Fixed: Coming Soon Page
+
+Date:    06-08-2019
+Version: 2.0.0
+===================
+1. Added: 3 Pages
+   - Coming Soon Page
+   - Compare Page
+   - Privacy Policy Page
+2. Updated: Mobile Menu
+3. Added: Newsletter Subscription
+4. Fixed: Responsive
+5. Fixed: Minor CSS Issue
+
+Date:    26-02-19 
+Version: 1.0.0
+===================
+Initial Release
